@@ -38,32 +38,6 @@ Data Format: Delta Lake
 
 Version Control: GitHub (Databricks Repos)
 
-📂 Project Structure
-databricks-ete-project/
-│
-├── bronze/
-│   └── bronze_layer.ipynb
-│
-├── silver/
-│   ├── silver_products.ipynb
-│   ├── silver_customers.ipynb
-│   ├── silver_orders.ipynb
-│   └── silver_regions.ipynb
-│
-├── gold/
-│   ├── gold_products.py
-│   ├── gold_customers.py
-│   └── gold_orders.py
-│
-├── pipelines/
-│   └── gold_products_pipeline.json
-│
-├── parameter/
-│   └── parameter_notebook.ipynb
-│
-└── README.md
-
-🔹 Bronze Layer – Raw Data Ingestion
 
 Purpose:
 Ingest raw data from Azure Data Lake in real-time / incremental mode.
