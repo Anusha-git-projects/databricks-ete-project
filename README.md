@@ -13,7 +13,7 @@ This project closely follows **industry best practices** and showcases key data 
 ---
 
 ## 🏗️ **Architecture**
-![Architecture Diagram](images/etl.png)
+![ETL Architecture](etl.png)
 
 
 ---
